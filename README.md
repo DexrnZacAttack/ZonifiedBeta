@@ -2,7 +2,7 @@
 <img src="src/main/resources/assets/zonifiedbeta/icon.png" width="128" height="128" alt="ZonifiedBeta icon">
 <h1 style="padding-top: 0;">ZonifiedBeta</h1>
 
-[![Download](https://img.shields.io/modrinth/v/ZonifiedBeta?logo=modrinth&label=Modrinth&color=0bc95a)](https://modrinth.com/plugin/ZonifiedBeta)
+[![Download](https://img.shields.io/modrinth/v/ZonifiedBeta?logo=modrinth&label=Modrinth&color=0bc95a)](https://modrinth.com/mod/ZonifiedBeta)
 </div>
 <hr>
 A small mod to use the previously unused ZonedChunkStorage present in b1.2_02-20110517
