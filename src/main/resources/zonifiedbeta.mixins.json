@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "me.dexrn.zonifiedbeta.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+      "DimensionMixin",
+      "LevelMixin"
+    ],
+	"client": [
+      "WorldScreenMixin"
+	],
+	"server": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "zonifiedbeta",
+	"version": "${version}",
+	"name": "ZonifiedBeta",
+	"description": "A small mod to use the previously unused ZonedChunkStorage present in b1.2_02-20110517",
+	"authors": [
+		"Dexrn ZacAttack"
+	],
+	"contact": {
+		"homepage": "https://dexrn.me/",
+		"sources": "https://github.com/DexrnZacAttack/ZonifiedBeta"
+	},
+	"license": "MIT",
+	"icon": "assets/zonifiedbeta/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"init": [
+      "me.dexrn.zonifiedbeta.ZonifiedBeta"
+		]
+	},
+  "accessWidener": "zonifiedbeta.accesswidener",
+	"mixins": [
+		"zonifiedbeta.mixins.json"
+	],
+	"depends": {
+      "fabricloader": ">=0.16.0",
+      "minecraft": "1.0.0-beta.2.2"
+	}
+}
