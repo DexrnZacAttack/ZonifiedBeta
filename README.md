@@ -39,7 +39,7 @@ This mod forces the game to use this 'Zone save format' (known as `ZonedChunkSto
 
 <figure>
   <a href="https://youtu.be/rOqPT0zQ4dg"><img src="https://i.ytimg.com/vi/rOqPT0zQ4dg/maxresdefault.jpg" alt="A warning screen that appears when the user attempts to load a world which uses ZonifiedBeta, without ZonifiedBeta installed" width="600"></a>
-  <figcaption>A warning screen that appears when the user attempts to load a world which uses ZonifiedBeta, without ZonifiedBeta installed.<br>Click the image to watch a showcase video of LodeZone, ZonifiedBeta, and NotSoSecret on YouTube</figcaption>
+  <figcaption>A warning screen that appears when the user attempts to load a world which uses ZonifiedBeta, without ZonifiedBeta installed.<br>Click the image to watch a showcase video of LoadZone, ZonifiedBeta, and NotSoSecret on YouTube</figcaption>
 </figure>
 
 > [!IMPORTANT]
