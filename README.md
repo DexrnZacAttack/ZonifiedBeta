@@ -24,7 +24,7 @@ A small mod to use the previously unused ZonedChunkStorage present in b1.2_02-20
   - Also fixes the inventory bind not existing
 
 #### Installation
-- Download the mod for your Minecraft version from the releases
+- Download the mod from the releases
   - Theoretically, the mod SHOULD work between Fabric-based loaders, as there is no dependency on the OSL itself, and b1.2_02-20110517 is already deobfuscated.
   - This has not been tested though. Should it not work on your loader, please continue with the installation steps yourself.
 - **Instructions still need to be written for this as Ornithe does not currently support `b1.2_02-20110517` outside of an experimental devenv made by somebody else.**
@@ -38,8 +38,8 @@ However, the Zone format and the code to use it were still present in the codeba
 This mod forces the game to use this 'Zone save format' (known as `ZonedChunkStorage` in code) instead of the Alpha Save Format (known as `OldChunkStorage` in code)
 
 <figure>
-  <a href="https://youtu.be/rOqPT0zQ4dg"><img src="https://i.ytimg.com/vi/rOqPT0zQ4dg/maxresdefault.jpg" alt="A warning screen that appears when the user attempts to load a world which uses LoadZone, without LoadZone installed" width="600"></a>
-  <figcaption>A warning screen that appears when the user attempts to load a world which uses LoadZone, without LoadZone installed.<br>Click the image to watch a showcase video on YouTube</figcaption>
+  <a href="https://youtu.be/rOqPT0zQ4dg"><img src="https://i.ytimg.com/vi/rOqPT0zQ4dg/maxresdefault.jpg" alt="A warning screen that appears when the user attempts to load a world which uses ZonifiedBeta, without ZonifiedBeta installed" width="600"></a>
+  <figcaption>A warning screen that appears when the user attempts to load a world which uses ZonifiedBeta, without ZonifiedBeta installed.<br>Click the image to watch a showcase video of LodeZone, ZonifiedBeta, and NotSoSecret on YouTube</figcaption>
 </figure>
 
 > [!IMPORTANT]
